@@ -1,9 +1,9 @@
 {
-  "homepage": "https://github.io/pritammandal0272/ReactTodoAPP",
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://pritammandal0272.github.io/todoappreact/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
